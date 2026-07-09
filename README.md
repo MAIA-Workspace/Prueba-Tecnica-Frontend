@@ -157,6 +157,6 @@ Estructura visual del PDF (productos por categoría):
 2. Clonar tu fork
 3. Implementar las vistas
 4. Commit + push a tu fork
-5. Enviar correo a **[correo@empresa.com]** con:
+5. Enviar correo a **[miguelasin.maia@gmail.com]** - CC **[flavio@inkoimpresores.com]** con:
    - Asunto: "Prueba Técnica Frontend - [Tu Nombre]"
    - Enlace al repositorio fork
